@@ -1,0 +1,13 @@
+*  auto
+*.pbl binary
+*.png binary
+*.jpg binary
+*.pdf binary
+
+*.txt eol=crlf
+# Powerbuilder Files brauchen crlf!
+*.sr* text eol=crlf
+*.pbt text eol=crlf
+*.pbr text eol=crlf
+*.pbw text eol=crlf
+*.txt text eol=crlf 
